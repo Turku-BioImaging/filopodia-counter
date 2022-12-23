@@ -8,7 +8,7 @@ Filopodia Counter is a script for automated filopodia counting from single cell 
 
 ## Dependencies
 
-Filopodia counter in dependent on Fiji-plugins MorpholibJ and BioFormats. Please subscribe to these using through the Fiji updater.
+Filopodia counter in dependent on Fiji-plugins MorpholibJ and BioFormats. Please subscribe to these through the Fiji updater.
 
 ## Usage
 
