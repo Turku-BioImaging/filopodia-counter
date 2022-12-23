@@ -36,3 +36,13 @@ The script will output
 ## Changelog
 
 Current version: _Filopodia-counter-v4_
+
+## Turku BioImaging
+
+This plugin is part of the Bioimage Analysis Toolbox created by [Turku BioImaging](https://bioimaging.fi), a broad-based, interdisciplinary science and infrastructure umbrella that aims to unite bioimaging expertise in Turku and elsewhere in Finland. Turku BioImaging is jointly operated by the [University of Turku](https://utu.fi) and [Åbo Akademi University](https://abo.fi).
+
+For more information and support, email [image-data@bioimaging.fi](mailto:image-data@bioimaging.fi)
+
+<p float='left'>
+    <img src='assets/BioImaging_logo_posa_vaaka.jpg' style="height:75px;width:auto;"/>
+</p>
