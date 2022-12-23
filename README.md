@@ -12,7 +12,7 @@ Filopodia counter in dependent on Fiji-plugins MorpholibJ and BioFormats. Please
 
 ## Usage
 
-1. Download the macro _filopodia-counter-v4.ijm_ from this repository and drag-and-drop it into Fiji. Click *Run*. Usen interface opens.
+1. Download the macro _filopodia-counter-v4.ijm_ from this repository and drag-and-drop it into Fiji. Click *Run*. User interface opens.
 
 <img src="assets/Figure2-UI.png" alt="drawing" width="500"/>
 
