@@ -31,7 +31,7 @@ The script will output
 
 <img src="assets/Figure3-QC-cell.png" alt="drawing" width="600"/>
 
-**Figure 3:** Filopodia counter saves a QC image of each quantified cell. This image has each counted filopodia circled in yellow.
+**Figure 3:** Filopodia counter saves a QC image of each quantified cell. This image has each counted filopodia circled in yellow. Prominence used in this image was set to 2000. Example image available in this repository.
 
 ## Changelog
 
