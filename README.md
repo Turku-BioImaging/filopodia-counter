@@ -12,11 +12,12 @@ Filopodia counter in dependent on Fiji-plugins MorpholibJ and BioFormats. Please
 
 ## Usage
 
+1. Download the macro _filopodia-counter-v4.ijm_ from this repository and drag-and-drop it into Fiji. Click *Run*. Usen interface opens.
+
 <img src="assets/Figure2-UI.png" alt="drawing" width="500"/>
 
 **Figure 2:** User interface of the Filopodia counter
 
-1. Download the macro _filopodia-counter-v4.ijm_ from this repository and drag-and-drop it into Fiji. Click *Run*.
 2. Add files to be corrected. You can count filopodia in just one image or add multiple images. All these images will be processed with the same parameters.
 3. Select the channel with the filopodia stain (options C1, C2, C3, C4).
 4. Select the channel with the cell body stain (options C1, C2, C3, C4).
