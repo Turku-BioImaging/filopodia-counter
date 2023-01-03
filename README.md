@@ -12,7 +12,7 @@ Filopodia counter in dependent on Fiji-plugins MorpholibJ and BioFormats. Please
 
 ## Usage
 
-1. Download the macro _filopodia-counter-v4.ijm_ from this repository and drag-and-drop it into Fiji. Click *Run*. User interface opens.
+1. Download the macro _filopodia-counter-v4.ijm_ from this repository and drag-and-drop it into Fiji. Click _Run_. User interface opens.
 
 <img src="assets/Figure2-UI.png" alt="drawing" width="500"/>
 
@@ -43,7 +43,9 @@ Current version: _Filopodia-counter-v4_
 This plugin is part of the [Bioimage Analysis Toolbox
 ](https://www.bioimaging.fi/bioimage-analysis-toolbox/) created by [Turku BioImaging](https://bioimaging.fi), a broad-based, interdisciplinary science and infrastructure umbrella that aims to unite bioimaging expertise in Turku and elsewhere in Finland. Turku BioImaging is jointly operated by the [University of Turku](https://utu.fi) and [Åbo Akademi University](https://abo.fi).
 
-For more information and support, email [image-data@bioimaging.fi](mailto:image-data@bioimaging.fi) or file an issue in this repository.
+For plugin support, [file an issue](https://github.com/Turku-BioImaging/filopodia-counter/issues/new) in this repository.
+
+For more information, email [image-data@bioimaging.fi](mailto:image-data@bioimaging.fi)
 
 <p float='left'>
     <img src='assets/BioImaging_logo_posa_vaaka.jpg' style="height:75px;width:auto;"/>
